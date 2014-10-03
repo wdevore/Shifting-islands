@@ -1,0 +1,6 @@
+name: ShiftingIslands
+description: A sample web application
+dependencies:
+  browser: any
+  ranger:
+    path: /Users/williamdevore/Documents/Development/GitReposes/Ranger-Dart
